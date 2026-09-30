@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Multiple q-zeta values
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Niclas
+    family-names: Confurius
+repository-code: 'https://github.com/NConfurius/multiple_q-zeta_values-code'
+license: MIT
+commit: 7945a3ebbdb8e15b245ee1c769d243f0fb2a27d5
+date-released: '2026-09-30'
